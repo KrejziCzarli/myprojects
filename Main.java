@@ -4,10 +4,6 @@ package pl.karolbil.udemy.firstprogram;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, Intellij!");
-        /*
-to jest komentarz na kilka linii
-np na dwie
-lub trzy
-         */
+
     }
 }
